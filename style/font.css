@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: raleway-black;
+    src: url(../fonte/static/Raleway-Black.ttf);
+}
+
+@font-face {
+    font-family: raleway-light;
+    src: url(../fonte/static/Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: raleway-bold;
+    src: url(../fonte/static/Raleway-Bold.ttf);
+}
+
+h1 {
+    font-family: raleway-black;  
+    color: transparent; 
+    background-image: linear-gradient(rgb(51, 168, 219) , rgb(20,114,183));
+    background-clip: text;
+    font-size: 40px;
+}
+
+button{
+    color: rgb(51, 168, 219);
+    font-family: raleway-black;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+
+h2{
+    font-family: raleway-bold;
+    color: rgb(51, 168, 219);
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+
+span {
+    font-family: raleway-light;
+    color: rgb(51, 168, 219);
+    font-size: 16px;
+}
+
+.text1 {
+    font-family: raleway-light;
+    color: white;
+    font-size: 20px;
+    
+}
+
+p, div {
+    font-family: raleway-light;
+    color: white;
+    font-size: 16px;
+}
+
+div > p{
+    font-family: raleway-black;
+    font-size: 40px;
+    text-align: left;
+}
+

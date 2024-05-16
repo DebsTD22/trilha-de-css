@@ -1,0 +1,62 @@
+main > section {
+    background: black;
+    height: 605px;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: rgb(51, 168, 219);
+    padding: 145px 0 145px 0;
+}
+
+section > p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 792px;
+}
+
+.modulo{
+    border-radius: 57px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(51, 168, 219) ;
+    background: linear-gradient(rgb(17, 17, 17) 5%, rgb(37, 37, 37) 20%);
+    padding: 16px 0 16px 0;
+    margin-top: 25px;
+    height: 51px;
+    width: 535px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main > div{
+    background: url('../image/woman-code.png') no-repeat fixed rgb(1, 1, 7);
+    background-size: cover;
+    height: 363px;
+    border-bottom: 1px solid rgb(51, 168, 219);
+}
+
+main > div > p{
+    padding-top: 111px;
+    padding-left: 198px;
+    width: 244px;
+    height: 141px;
+    box-sizing: content-box;
+    text-shadow: 2px 3px  rgb(51, 168, 219);
+}
+
+#last_banner{
+    background: black;
+    height: 748px;
+    border-bottom: 1px solid rgb(51, 168, 219);
+    padding-top: 68px;
+}
+
+#last_banner h2{
+    width: 746px;
+    height: 76px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: content-box;
+}

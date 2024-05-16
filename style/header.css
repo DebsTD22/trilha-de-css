@@ -1,0 +1,41 @@
+@import url(reset.css);
+
+header{
+    background-image: radial-gradient(rgba(9,26,34,0.8) 20%, rgba(0,0,0,1)), url('../image/banner01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 605px;
+    border-bottom: 1px solid rgb(51, 168, 219);
+    padding: 62px 0 62px 0;
+}
+
+.text1{
+    display: block;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    unicode-bidi: isolate;
+    width: 510px;
+}
+
+button{
+    background: transparent ;
+    margin-top: 10px;
+    width: 326px;
+    height: 57px;
+    top: 473px;
+    left: 557px;
+    gap: 31px;
+    border: 2px 0px 0px 0px;
+    border-color: rgb(51, 168, 219);
+}
+
+#logo{
+    background: rgba( 0, 0, 0, 0.2);
+    border-radius: 50%;
+    width: 268px;
+    height: 268px;
+    object-fit: none;
+    margin-bottom: 10px;
+}

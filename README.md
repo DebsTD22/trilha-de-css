@@ -7,5 +7,9 @@
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-layout">Layout</a>
 </p>
+<div align="center">
+<img src="image/image.png">
+</div>
 
-<img src="https://www.figma.com/design/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0-1&t=wTY6B251mIYKwpFm-0">
+
+
